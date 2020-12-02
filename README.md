@@ -1,2 +1,2 @@
 # proteins-indentification
-Using the genome sequence, the proteins are identified.
+Using the genome sequence of Zika virus, the proteins released by it are identified.
